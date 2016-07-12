@@ -2,7 +2,7 @@ Python script for mlvch app
 Usage:
 
 ```
-python3 mlvch.py image.jpg
+python3 mlvch.py example.jpg
 ```
 Requirements:
 
